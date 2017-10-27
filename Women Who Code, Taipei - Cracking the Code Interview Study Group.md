@@ -1,7 +1,7 @@
 # Women Who Code, Taipei - Cracking the Code Interview Study Group
 
 ## 目的: 
-協助想要往 CS 領域發展的 Women Who Code 成員準備 Job Interview。
+協助想要往 Computer Science 領域發展的 Women Who Code 成員準備 Job Interview。
 
 ## 方法: 
 成立 Cracking the Code Interview Study Group。在 Resume, Interview Behavior and technical Questions 三方面協助 members.
@@ -36,7 +36,7 @@
         + **Sorting and Searching** (Hanna)(01/08/2018)
         + Databases (Oliver) (01/19/2018)
         + Math and Logic Puzzles 
-        + Object-Oriented Design (Dell: Ceceil) (TBD)
+        + Object-Oriented Design (Dell: Cecil) (TBD)
         + Recursion and Dynamic Programming
         + Scalability and Memory Limits
         + Testing
@@ -46,7 +46,7 @@
 
 ## 課程時間與地點:
 + 地點:
-    +  BNY Melon 11 樓會議室 (from 10/27/2017)
+    +  BNY Mellon 11 樓會議室 (from 10/27/2017)
         +  謝謝 BNY Mellon and Nadia
 + 時間
     + Start time: 7:00
@@ -64,6 +64,7 @@
     + [repl.it](https://repl.it/)
 + WomenWhoCodeTaipei Github
     + [Materials](https://github.com/WomenWhoCodeTaipei/crackingthecode)
+    + 導讀者提供 Github 加入 
 
 ## References
 
