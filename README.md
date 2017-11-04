@@ -41,7 +41,7 @@
         + Scalability and Memory Limits
         + Testing
         + C and C++
-        + Java (Dell:Richard) (TBD)
+        + Java (Dell:Richard) (12/15)
         + Threads and Locks
 
 ## 課程時間與地點:
