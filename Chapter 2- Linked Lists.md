@@ -13,7 +13,7 @@
 
 ---
 
-## What i have expected from my study ?
+## What i have expected to my study ?
 
 + Fundamental 
 + Content of the chapter
