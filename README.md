@@ -29,7 +29,7 @@
     + Chapters in the book:
         + **Arrays and Strings** (Rachael)(10/13)
         + **Big O** (Susan)(10/27)
-        + **Linked Lists** (Racheal)(11/10)
+        + **Linked Lists** (Racheal)(11/10)
         + **Stacks and Queues** (Kelly)(11/24)
         + **Trees and Graphs** (angel)(12/8)
         + **Bit Manipulation** (Jenni)(12/22)
