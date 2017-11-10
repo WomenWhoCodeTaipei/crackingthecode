@@ -2,11 +2,9 @@
 
 ![](https://i.imgur.com/kBTMP1L.jpg)
 
-
-### Wifi Info
-三創 Wifi 11 Floor
-wifi : Make11F
-wifi ssid : synMakeEl (L小寫)
+## 三創 Wifi 11 Floor
+### wifi : STARROCKET GUEST
+### wifi ssid : ilovestarrocket
 
 ### BNY Info
 
