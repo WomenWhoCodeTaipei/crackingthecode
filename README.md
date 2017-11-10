@@ -29,7 +29,7 @@
     + Chapters in the book:
         + **Arrays and Strings** (Rachael)(10/13)
         + **Big O** (Susan)(10/27)
-        + **Linked Lists** (Racheal)(11/10)
+        + **Linked Lists** (Racheal)(11/10)
         + **Stacks and Queues** (Kelly)(11/24)
         + **Trees and Graphs** (angel)(12/8)
         + **Bit Manipulation** (Jenni)(12/22)
@@ -46,7 +46,7 @@
 
 ## 課程時間與地點:
 + 地點:
-    +  三創 11 F  (偶爾)
+    +  三創 11 F  (偶爾)
     +  BNY Mellon 11 樓會議室 (from 10/27/2017)
         +  謝謝 BNY Mellon and Nadia
 + 時間
