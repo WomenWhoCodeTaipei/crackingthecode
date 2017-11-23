@@ -1,9 +1,9 @@
 # Women Who Code, Taipei - Cracking the Code Interview Study Group
 
 ## 重要事項 (Upadted 2017/11/23)
-+ ** Meetup 報名截止時間:  **
++ **Meetup 報名截止時間:**
     讀書會前一天(通常是星期四)中午，中午過後停止報名。因為要製作名單，所以無法接受臨時參加的請求。
-+ ** 2017年 12 月， 2018年 1 月有三次讀書會 **
++ **2017年 12 月， 2018年 1 月有三次讀書會**
 
 ## 目的: 
 協助想要往 Computer Science 領域發展的 Women Who Code 成員準備 Job Interview。
