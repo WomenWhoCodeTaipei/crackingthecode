@@ -1,0 +1,42 @@
+
+本週將由 Angel 為大家進行  Trees and Graphs 的導讀。 各章節獨立， 歡迎大家參加!
+
+*** 重要事項 ***
++ 讀書會前一天(通常是星期四) 中午過後停止報名。因為要製作名單，所以無法接受臨時參加的請求。
++ 聚會地點有時會臨時改變，請參加前注意 Meetup 地點. 如果聚會地點在 BNY,  我們需要提供妳的個人資料申請識別證，請確實填寫姓名與email 給我們。謝謝!
+
+------  讀書會介紹 ------ 
+
+Women Who Code, Taipei - Cracking the Code  Interview Study Group 
+
+v Arrays and Strings (Rachael)(10/13) 
+
+v Big O (Susan)(10/27)
+
+v Linked Lists (Racheal)(11/10)
+
+v Stacks and Queues (Kelly)(11/24)
+
+--> Trees and Graphs (angel)(12/8)
+
++ Java (Dell:Richard) (12/15)
+
++  Bit Manipulation (Jenni)(12/22)
+
++ Sorting and Searching (Hanna)(01/08/2018)
+
++ Object-Oriented Design (Dell: Cecil) (01/12/2018)
+
++ Databases (Oliver) (01/19/2018)
+
++ Math and Logic Puzzles
+
++ Recursion and Dynamic Programming
+
++ Scalability and Memory Limits
+
++ Testing
+
++ C and C++
+
++ Threads and Locks
