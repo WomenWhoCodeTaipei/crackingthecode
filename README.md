@@ -15,10 +15,10 @@
 + 甚麼是讀書會? 
  + 參考 : [認識HPX讀書會](https://hpx.tw/archives/18982)
  + Cracking the Code Interview Study Group
-  + 讀書會屬於大家，是大家相互學習的形式，並非個人教學。
+  + 讀書會屬於大家，是大家相互學習的形式，並非教學。
   + 讀書會成員認領導讀 (非強迫性)
   + 志工教練
-   + 謝謝 Dell 的志工計畫
+    + 謝謝 Dell 的志工計畫
   + 每章節獨立，歡迎新成員加入
         
 + Resume and interview behavior : 
@@ -63,10 +63,10 @@
     + [slack sigin in pages](https://slack.com/signin)
 + [repl.it](https://repl.it/) : run different languages on the site
 + [WomenWhoCodeTaipei Github](https://github.com/WomenWhoCodeTaipei/crackingthecode)
- + 讀書會的講義與資訊
- + 導讀者提供 Github 加入，並上傳導讀講義。
- + 學員如想加入請提供 github 帳號
- + 使用 member_test.md 測試是否有對的權限
+  + 讀書會的講義與資訊
+  + 導讀者提供 Github 加入，並上傳導讀講義。
+  + 學員如想加入請提供 github 帳號
+  + 使用 member_test.md 測試是否有對的權限
 + [CtCI-6th-Edition Solution - various languages](https://github.com/careercup/CtCI-6th-Edition)
 
 ## References
