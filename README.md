@@ -36,11 +36,12 @@
         + **Stacks and Queues** (Kelly)(11/24)
         + **Trees and Graphs** (angel)(12/8)
         + Java (Dell:Richard) (12/15)
-        + **Bit Manipulation** (Jenni)(12/22)
-        + **Sorting and Searching** (Hanna)(01/05/2018)
+        + **Sorting and Searching** (Jasmine)(12/22)
+        + **Bit Manipulation** (Jenni)(01/05/2018)
         + Object-Oriented Design (Dell: Cecil) (01/12/2018)
         + Databases (Oliver) (01/19/2018)
-        + Math and Logic Puzzles 
+        + *Math and Logic Puzzles(Dell:Pin)(Date:TBD)
+        + Trees and Graphs Part2 (Jasmine)(Date:TBD) 
         + Recursion and Dynamic Programming
         + Scalability and Memory Limits
         + Testing
@@ -51,7 +52,6 @@
 + 地點:
     +  三創 11 F  (偶爾)
     +  BNY Mellon 11 樓會議室 (from 10/27/2017)
-        +  謝謝 BNY Mellon and Nadia
 + 時間
     + Start time: 7:00
     + Duration: about 1.5 hrs
