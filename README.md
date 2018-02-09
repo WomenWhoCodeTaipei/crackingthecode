@@ -30,23 +30,24 @@
 + Technical Questions:
     + Cracking the Code Interview 章節導讀
     + Chapters in the book:
-        + **Arrays and Strings** (Rachael)(10/13)
-        + **Big O** (Susan)(10/27)
-        + **Linked Lists** (Racheal)(11/10)
-        + **Stacks and Queues** (Kelly)(11/24)
-        + **Trees and Graphs** (angel)(12/8)
-        + Java (Dell:Richard) (12/15)
-        + **Sorting and Searching** (Jasmine)(12/22)
-        + **Bit Manipulation** (Jenni)(01/05/2018)
-        + Object-Oriented Design (Dell: Cecil) (01/12/2018)
-        + Databases (Oliver) (01/19/2018)
-        + *Math and Logic Puzzles(Dell:Pin)(Date:TBD)
-        + Trees and Graphs Part2 (Jasmine)(Date:TBD) 
-        + Recursion and Dynamic Programming
-        + Scalability and Memory Limits
-        + Testing
-        + C and C++
-        + Threads and Locks
+      Women Who Code, Taipei - Cracking the Code Interview Study Group
+        * v Arrays and Strings (Rachael)(10/13)
+        * v Big O (Susan)(10/27)
+        * v Linked Lists (Racheal)(11/10)
+        * v Stacks and Queues (Kelly)(11/24)
+        * v Trees and Graphs (angel)(12/8)
+        * v Java (Dell:Richard) (12/15)
+        * v Sorting and Searching (Jasmine)(12/22)
+        * v Bit Manipulation (Jenni)(01/04/2018)
+        * v Object-Oriented Design (Dell: Cecil) (01/11/2018)
+        * v Databases (Oliver) (01/18/2018)
+        * v Math and Logic Puzzle (Pin)(02/01/2018) 
+        * v Recursion and Dynamic Programming (十百千)(02/08/2018)
+        * Trees and Graphs Part2 (Jasmine)(Date:TBD)
+        * Scalability and Memory Limits
+        * Testing
+        * C and C++
+        * Threads and Locks
 
 ## 課程時間與地點:
 + 地點:
