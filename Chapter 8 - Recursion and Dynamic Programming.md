@@ -32,4 +32,4 @@
 ## $$1x+2y+3x=N$$ 求 (x,y,z) 的非負整數解
 ---
 ## Computational Thinking: Recursion and DP
-## https://repl.it/@1001000x4/TripleStep
+## https://repl.it/@1001000x4/ClimbingStairs
